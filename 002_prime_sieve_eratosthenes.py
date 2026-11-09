@@ -1,4 +1,5 @@
 """Program 002: Sieve of Eratosthenes & Prime Factorization."""
+"""Program 002: Sieve of Eratosthenes & Prime Factorization."""
 def sieve_of_eratosthenes(limit: int) -> list[int]:
     if limit < 2:
         return []
